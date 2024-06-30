@@ -2,7 +2,7 @@ menu:
 - {name: 'projects', url: '/projects'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'rusume', url: '/resume'}
+- {name: 'rusume', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 people:
@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'James Gullberg', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'James Gullberg', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
