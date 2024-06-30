@@ -10,16 +10,19 @@ people:
 - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
+projects:
+- {name: 'Nalo Mix Pro', year: '2023', thumbnnail: ''}
+
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/jcgullberg'}
+- {icon: 'twitter', link: 'https://www.printables.com/@jamescgullber_244830'}
+- {icon: 'instagram', link: 'https://www.instagram.com/jamesgullberg/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/james-gullberg-8507b4201/'}
 
 contacts:
 - {name: 'James Gullberg', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
