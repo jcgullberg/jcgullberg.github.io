@@ -1,3 +1,6 @@
+---
+layout: post
+---
 ### The Nalo Mix Pro
 
 ## Description
