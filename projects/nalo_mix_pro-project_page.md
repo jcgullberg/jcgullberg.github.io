@@ -1,9 +1,10 @@
-# academic
+<<<<<<< HEAD
+---
+layout: post
+title: The Nalo Mix Pro
+---
 
-### A Jekyll theme for academia
 
-
-### The Nalo Mix Pro
 
 ## Description
 
