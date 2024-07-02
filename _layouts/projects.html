@@ -8,8 +8,7 @@ layout: default
 {% for project in site.data.settings.projects %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ project.name }}{{ project.year }}</h5>
-    <p> <strong>{{ project.name }} </strong><em>{{ project.year }}</em></p>
+    <h5><strong>{{ project.name }}, </strong>{{ project.year }}</h5>
     <p>{{ project.info }}</p>
     <p>Phone: {{ project.phone }}</p>
     <p><a href="{{ site.github.url }}/projetcs/{{ project.url }}">More info</a></p>
