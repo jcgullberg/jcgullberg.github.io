@@ -8,7 +8,7 @@ layout: default
 {% for project in site.data.settings.projects %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ project.name }}</h5>
+    <h5>{{ project.name }}{{ project.year }}</h5>
     <p> <strong>{{ project.name }} </strong><em>{{ project.year }}</em></p>
     <p>{{ project.info }}</p>
     <p>Phone: {{ project.phone }}</p>
