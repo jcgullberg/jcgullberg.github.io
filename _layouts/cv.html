@@ -8,17 +8,6 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Resume</h3>
     <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Education</h4>
-      </div>
-      <div class="col-md-9">
-        {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="row g-5 mb-5">
       <div class="col-md-12">
         <h4>Professional Experience</h4>
       </div>
@@ -35,6 +24,17 @@ layout: default
       </div>
       <div class="col-md-9">
         {% for section in site.data.cv.awards %}
+          <p> <strong>{{ section.title }} </strong><em>{{ section.time }}</em></p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Education</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv.education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
