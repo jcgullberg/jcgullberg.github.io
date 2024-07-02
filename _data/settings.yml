@@ -5,7 +5,7 @@ menu:
 
 
 projects:
-- {name: 'Nalo Mix Pro', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Nalo Mix Pro', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
