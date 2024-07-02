@@ -1,7 +1,5 @@
 menu:
 - {name: 'projects', url: '/projects'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
 - {name: 'rusume', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -25,4 +23,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/james-gullberg-8507b4201/'}
 
 contacts:
-- {name: 'James Gullberg', department: 'Mechatronics and Robotics', institution: 'Queens University', location: 'Kingston, Ontario', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
+- {name: 'James Gullberg', department: 'Mechatronics and Robotics Eng', institution: 'Queens University', location: 'Kingston, Ontario', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
