@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title: The Nalo Mix Pro
