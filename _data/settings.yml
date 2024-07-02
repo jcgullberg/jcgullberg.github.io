@@ -1,6 +1,6 @@
 menu:
 - {name: 'projects', url: '/projects'}
-- {name: 'rusume', url: '/cv'}
+- {name: 'resume', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 people:

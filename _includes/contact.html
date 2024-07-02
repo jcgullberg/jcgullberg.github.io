@@ -3,14 +3,14 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
-      <div class="col-md-6">
+      <div class="col-md-7">
         <h4>{{ contact.name }}</h4>
         <p>{{ contact.institution }} | {{ contact.department }}</p>
         <p>Phone: {{ contact.phone }}</p>
         <p>Email: {{ contact.email }}</p>
         <p>{{ contact.location }}</p>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-5">
         <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
       </div>
     </div>
