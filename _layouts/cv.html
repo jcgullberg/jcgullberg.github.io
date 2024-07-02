@@ -19,12 +19,23 @@ layout: default
       </div>
     </div>
     <div class="row g-5 mb-5">
-      <div class="col-md-3">
+      <div class="col-md-12">
         <h4>Professional Experience</h4>
       </div>
-      <div class="col-md-9">
+      <div class="col-md-12">
         {% for section in site.data.cv.academic-experience %}
           <p> <strong>{{ section.title }} </strong><em>{{ section.time }}</em></p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Awards</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv.awards %}
+          <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
