@@ -5,11 +5,10 @@
     <div class="row g-5 mb-5">
       <div class="col-md-6">
         <h4>{{ contact.name }}</h4>
-        <p>{{ contact.title }} | {{ contact.department }}</p>
-        <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
+        <p>{{ contact.institution }} | {{ contact.department }}</p>
         <p>Phone: {{ contact.phone }}</p>
         <p>Email: {{ contact.email }}</p>
-        <p>Office: {{ contact.office }}</p>
+        <p>Office: {{ contact.location }}</p>
       </div>
       <div class="col-md-6">
         <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">

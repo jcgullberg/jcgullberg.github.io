@@ -25,4 +25,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/james-gullberg-8507b4201/'}
 
 contacts:
-- {name: 'James Gullberg', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
+- {name: 'James Gullberg', department: 'Mechatronics and Robotics', institution: 'Queens University', location: 'Kingston, Ontario', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
