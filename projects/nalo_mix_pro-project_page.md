@@ -1,6 +1,8 @@
----
-layout: post
----
+# academic
+
+### A Jekyll theme for academia
+
+
 ### The Nalo Mix Pro
 
 ## Description
