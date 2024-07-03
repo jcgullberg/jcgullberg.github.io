@@ -30,7 +30,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/jcgullberg'}
-  {icon: 'youtube', link: 'https://www.printables.com/@jamescgullber_244830'}
+- {icon: 'youtube', link: 'https://www.printables.com/@jamescgullber_244830'}
 - {icon: 'instagram', link: 'https://www.instagram.com/jamesgullberg/'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/james-gullberg-8507b4201/'}
 
