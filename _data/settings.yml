@@ -17,7 +17,7 @@ projects:
 - {name: 'Nintendo Switch Apple Watch Charger', type: 'Etsy Product', year: '2022', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'AirTag Pokeball Keychain', type: 'Etsy Product', year: '2022', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Adjustable iPad Stand', type: 'Etsy Product', year: '2022', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
-- {name: 'Remote Control Flying Wing', type: 'Personal Project', year: '2019', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
+- {name: 'Remote Control Flying Wing', type: 'Personal Project', year: '2019', info: 'This airplane was my first real project incorporating the use of CAD to plan the layout and design before beginning the construction by hand. The wings were made from polystyrene foam cut with a homemade hot wire cutter and wooden dowels as spars. While the airframe was made up of 3mm and 6mm balsa wood sheets.  It used mostly off the shelf electronic parts, except for a front FPV camera that was added later, which was salvaged from a broken FPV quadcopter.' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Remote Control Airplane V2', type: 'Personal Project', year: '2022', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Remote Control Airplane V3', type: 'Personal Project', year: '2022', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 
