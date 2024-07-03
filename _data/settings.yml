@@ -8,7 +8,7 @@ projects:
 - {name: 'Nalo Mix Pro', type: 'APSC 101', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Differential Swerve Drive Module V1', type: 'Personal Project', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Differential Swerve Drive Module V2', type: 'VEX Project', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
-- {name: 'Differential Swerve Drive Module V3', type: 'VEX Project', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
+- {name: 'Differential Swerve Drive Module d3', type: 'VEX Project', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Beam Profile Monitor Actuator', type: 'RMTL Project', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Cold Trap', type: 'RMTL Project', year: '2023', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
 - {name: 'Ion Thruster', type: 'Chemistry, Grade 12', year: '2022', info: 'bing bong' , image: 'assets/img/primary-investigator.jpg', url: 'nalo_mix_pro-project_page'}
