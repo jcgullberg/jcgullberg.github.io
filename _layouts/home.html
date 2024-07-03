@@ -5,8 +5,8 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <h3 class="fw-bold">About me</h3>
-    <p>blah blah blah</p>
-    <p><a href="{{ site.github.url }}/contact">Contact</a></p>
+    <p>Growing up I have always loved to create, I have done dozens of projects over the years </p>
+    <p><a href="{{ site.github.url }}/contact">Contact me</a></p>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
@@ -28,9 +28,13 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Other Links</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Other links</h3>
     {% for link in site.data.settings.links %}
       <p><a href="{{ link.url }}">{{ link.title }}</a> - {{ link.description }}</p>
     {% endfor %}
   </div>
+</div>
+
+<div class="row g-5 mb-5">
+  <p>This website was made with github pages and forked from the "academic" jekyll theme created by LeNPaul</p>
 </div>

@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I've had the opportunity to work on a diverse range of projects that showcase my skills from mechanical design 3D printing to electrical and software. From a fully 3D printed swerve drive mudule to an ion thruster, each project has been a valuable learning experience and a testament to my passion for solving complex problems and creating.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I invite you to explore my projects to see the detailed write-ups, CAD files, source code, and scematics.
