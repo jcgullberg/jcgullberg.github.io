@@ -2,7 +2,7 @@
 
 ### A Jekyll theme for academia
 
-![Academic Screenshot](https://jcgullberg.github.io/main/screenshot.png)
+![Academic Screenshot](https://jcgullberg.github.io/screenshot.png)
 
 A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
 
