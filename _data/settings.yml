@@ -36,6 +36,7 @@ social:
 
 links:
 - {title: 'Printables', url: 'https://www.printables.com/@jamescgullber_244830', description: 'Where you can find a bunch of my other 3D models'}
+- {title: 'Etsy', url: 'https://www.printables.com/@jamescgullber_244830', description: 'My old store front'}
 
 contacts:
 - {name: 'James Gullberg', department: 'Mechatronics and Robotics Eng', institution: 'Queens University', location: 'Kingston, Ontario', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
