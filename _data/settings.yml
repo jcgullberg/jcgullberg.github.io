@@ -35,7 +35,7 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/james-gullberg-8507b4201/'}
 
 links:
-- {name: 'Printables', url: 'https://www.printables.com/@jamescgullber_244830', description: 'Where you can find a bunch of my other 3D models'}
+- {title: 'Printables', url: 'https://www.printables.com/@jamescgullber_244830', description: 'Where you can find a bunch of my other 3D models'}
 
 contacts:
 - {name: 'James Gullberg', department: 'Mechatronics and Robotics Eng', institution: 'Queens University', location: 'Kingston, Ontario', phone: '+1 226 503 6841', email: 'j.c.gullberg@queensu.ca', image: 'assets/img/contact.jpg'}
