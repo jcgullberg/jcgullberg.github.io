@@ -30,8 +30,8 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Posts</h3>
-    {% for link in site.data.settings.links %}
-      <p><a href="{{ link.url }}">{{ link.title }}</a> - {{ link.description }}</p>
+    {% for post in site.posts %}
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
   </div>
 </div>
