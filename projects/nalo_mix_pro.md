@@ -3,7 +3,8 @@ layout: page
 title: The Nalo Mix Pro
 ---
 
-![Nalo Mix Pro picture](https://jcgullberg.github.io/assets/img/nalo_mix_thumbnail.jpg)
+<img src="{{ site.github.url }}/assets/img/nalo_mix_thumbnail.jpg" alt="drawing" width="200"/>
+
 
 ![Nalo Mix Pro picture]({{ site.github.url }}/assets/img/nalo_mix_thumbnail.jpg)
 
