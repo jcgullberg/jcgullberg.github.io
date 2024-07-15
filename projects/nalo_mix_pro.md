@@ -24,35 +24,9 @@ Below are some screenshots from the Solidworks cad:
 ## Software
 The code was written in C in the Arduino IDE and is pretty simple. 
 
-The main operations start with 
+The main operations start with calling the `buttonPressDetection()` function every loop to determin the mode to enter. This function will return a `buttonStatus` value based on wether the button press was a single press, double press, or long press.
 
-`void loop() {                   // Main loop
-  
-  buttonStatus = 1;             // 1 is standard state (looping), 2 is one press, 3 is a double press, 4 is a press and hold
-  
-  eStopCheck();
+We then have a switch case to decide based on the button press to either enter "Purge mode" when adding new powder or water, "Rotate turnable mode" to make removeing the test tubes easier, or the standard "Dispensing mode".
 
-  pulseLED();
+And it is also constantly calling the `eStopCheck()` function every loop so it can be shut off at anytime for safety.
 
-  
-  if(digitalRead(StartPin) == LOW){
-    buttonStatus = buttonPressDetection();
-  }
-  
-  
-  if(buttonStatus == 2){
-    Serial.println("Dispensing...");
-    dispenseFunction();
-    buttonStatus = 1;
-  }else if(buttonStatus == 3){
-    Serial.println("Entered Purge Mode.");
-    purgeMode();
-    buttonStatus= 1;
-  }else if(buttonStatus == 4){
-    Serial.println("Rotating turn table.");
-    rotateTurnTable();
-    buttonStatus = 1;
-  }
-
-  delay(10);
-}`
