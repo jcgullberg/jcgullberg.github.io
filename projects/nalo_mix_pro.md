@@ -35,3 +35,6 @@ When in dispensing mode, it would take in the amouts of water and powder from an
 
 And it is also constantly calling the `eStopCheck()` function every loop so it can be shut off at anytime for safety.
 
+## Downloads
+The CAD
+The Code
