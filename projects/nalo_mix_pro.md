@@ -16,8 +16,8 @@ Instead of using the provided plastic gears to make a large and bulky gearbox wi
 
 The entire enclosure was also 3D printed to hide all the electronics and allowed the powder to be filled from the top by removing a lid, and the water to be refilled with a fold out funnel on the back.
 
-<img src="{{ site.github.url }}/assets/img/nalo_mix_cad_exploded.jpg" alt="bing" width="780"/>
+<img src="{{ site.github.url }}/assets/img/nalo_mix_cad_exploded.jpg" alt="bing" width="40%"/>
 
-<img src="{{ site.github.url }}/assets/img/nalo_mix_cad.jpg" alt="bing" width="780"/>
+<img src="{{ site.github.url }}/assets/img/nalo_mix_cad.jpg" alt="bing" width="40%"/>
 
 ## Software
