@@ -14,6 +14,6 @@ To make everything turn smoothly, I would need a whole bunch of large bearings t
 
 I planned on using brushless motors with Odrive motor controllers and as5600 magnetic encoders with an arduino to control all the modules, but the electronic costs ended up being too high for me to finish the project.
 
-Below is a cross section image and a few photos of the printed prototype:
-<img src="{{ site.github.url }}/assets/img/diff_swerve_v1_cad_section.jpg" alt="bing" width="80%"/>
-<img src="{{ site.github.url }}/assets/img/diff_swerve_v1_ass.jpg" alt="bing" width="80%"/>
+Below is a cross section image and a photo of the printed prototype:
+<img src="{{ site.github.url }}/assets/img/diff_swerve_v1_cad_section.jpg" alt="bing" width="100%"/>
+<img src="{{ site.github.url }}/assets/img/diff_swerve_v1_ass.jpg" alt="bing" width="100%"/>
