@@ -2,7 +2,7 @@
 layout: page
 title: VEX Differential Swerve Modules
 ---
-<img src="{{ site.github.url }}/assets/img/diff_swerve_v2v3.jpg" alt="bing" width="100%"/>
+<img src="{{ site.github.url }}/assets/img/diff_swerve_v2v3_.jpg" alt="bing" width="100%"/>
 
 ## About
 This project began two thirds the way through the 2023 ~ 2024 Vex season, when I got recruited onto the team specifically for this project. But fresh off designing my first swerve module, I knew exactally all the changes and improvements I needed to make, which allowed me to go from joining the team to a finished and working prototype in lass than a week.
@@ -24,7 +24,7 @@ If you want to take a closer look you can find an Onshape file to view it here:
 
 
 ### 2024 ~ 2025 Module
-<img src="{{ site.github.url }}/assets/img/diff_swerve_v3_thumbnail_2.jpg" alt="bing" width="100%"/>
+<img src="{{ site.github.url }}/assets/img/diff_swerve_thumbnail_2.jpg" alt="bing" width="100%"/>
 This module is pretty much the same as the last one, except it is a whole lot smaller. It uses a 2.75" wheel instead of the 3.25" wheel on the last one, and takes up 45% less volume in the robot. A couple small changes had to be made, like flipping the motors around. There was no room between the motors and wheel for the wires to come out with the previous setup, so they were turned 180 degrees and ideler gears were added. All the screws also had to be changed from M4 to M3 due to space constraints and a cover was added on top.
 
 Overall, I believe this design is approching a limit for how small a Vex swerve module could be, simply because even if I shrink the main turret smaller, the width of the whole module will have to stay the same thanks to the bulky Vex motors that have to be used. This design is ready to be sent off to the Markforged printers to finally be made from nylon, and these will likely be the modules our team uses for many years to come.
@@ -42,7 +42,7 @@ With our modules, we can change the angle of attack of the wheels reletive to th
 This lets our robots simaltainously be capable of more torque or more speed than any other robot, with the added degree of freedom thanks to it being swerve drive, this is the most optimal drivetrain in Vex EVER, giving us an unparalled advantage.
 
 ## Power Take-Off
-A power take-off is basically a clutch system that lets us route the power from the motors to something else on the robot. This come in super handy with one of the components of this game which is "the climb", where our robots need to climb a lader to get additional points. By using all 8 motors from the swerve modules and connecting them to a winch for the climb, we save a ton of weight by not having to add extra motors that are just dead weight on the robot most of the time.
+A power take-off is basically a clutch system that lets us route the power from the motors to something else on the robot. This come in super handy with one of the components of this game which is "the climb", where our robots need to climb a lader to get additional points. By connecting all 8 motors from the swerve modules together with bevel gears and driveshafts running along the bottom of the robot and connecting them to a winch for the climb, we save a ton of weight by not having to add extra motors that are just dead weight on the robot most of the time.
 
 This mechanism is still under development, but so far is showing huge potential for our robots this season.
 
