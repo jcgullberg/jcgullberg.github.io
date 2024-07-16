@@ -11,7 +11,7 @@ The modules we supposed to be completly printed on Markforged printers in Onyx C
 
 During our matches at the Vex World Chanmpionship in Dallas, My biggest fear was the reliability of the modules would be poor. Luckily the modules actually held up quite well, the only fault we had in all our matches was the teeth sheard off one of the bevel gears due to under extrusion in the print.
 
-Although we didn't place that well overall, after the compitition we discussed all the changes that needed to be made and got to work making an increadibly compact and reliable swerve module that the team can use for the next few years.
+Although we didn't place that well overall, after the compitition we discussed all the changes that needed to be made and got to work making an increadibly compact and reliable swerve module that the team can use for years to come.
 
 ## The Design
 ### 2023 ~ 2024 Module
@@ -19,6 +19,11 @@ Although we didn't place that well overall, after the compitition we discussed a
 With the 
 
 ### 2024 ~ 2025 Module
+<img src="{{ site.github.url }}/assets/img/diff_swerve_v3_thumbnail.jpg" alt="bing" width="100%"/>
+This module is pretty much the same as the last one, except it is a whole lot smaller. It uses a 2.75" wheel instead of the 3.25" wheel on the last one, and takes up 45% less volume in the robot. A couple small changes had to be made, like flipping the motors around. There was no room between the motors and wheel for the wires to come out with the previous setup, so they were turned 180 degrees and ideler gears were added. All the screws also had to be changed from M4 to M3 due to space constraints.
+
+Overall, I believe this design is approching a limit for how small a Vex swerve module could be, simply because even if I shrink the main turret smaller, the width of the whole module will have to stay the same thanks to the bulky Vex motors that are mandatory. They are ready to be sent off to the Markforged printers to finally be made from nylon, and these will likely be the modules our team uses for many years to come.
+
 
 ## The Reason For Omni Wheels - Nick's Master Plan
 Nick, who is a masters student on our team, and also a very well know individual in the Vex robotics community, came up with a master plane to use omni wheels on the swerve modules, which can be angled to act as a CVT.
@@ -30,3 +35,9 @@ With our modules, we can now change the angle of attack of the wheels reletive t
 This lets our robots simaltainously be capable of more torque or more speed than any other robot, with the added degree of freedom thanks to it being swerve drive, this is the most optimal drivetrain in Vex EVER, giving us an unparalled advantage.
 
 ## Power Take-Off
+A power take-off is basically a clutch system that lets us route the power from the motors to something else on the robot. This come in super handy with one of the components of this game which is "the climb", where our robots need to climb a lader to get additional points. By using all 8 motors from the swerve modules and connecting them to a winch for the climb, we save a ton of weight by not having to add extra motors that are just dead weight on the robot most of the time.
+
+This mechanism is still under development, but so far is showing huge potential for our robots this season.
+
+Here are some picture of the current CAD designs:
+<img src="{{ site.github.url }}/assets/img/diff_swerve_v3_thumbnail.jpg" alt="bing" width="80%"/>
