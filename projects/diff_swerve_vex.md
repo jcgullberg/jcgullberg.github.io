@@ -15,7 +15,7 @@ Although we didn't place that well overall, after the compitition we discussed a
 
 ## The Design
 ### 2023 ~ 2024 Module
-<img src="{{ site.github.url }}/assets/img/diff_swerve_v3_thumbnail.jpg" alt="bing" width="100%"/>
+<img src="{{ site.github.url }}/assets/img/diff_swerve_v2_cad.jpg" alt="bing" width="100%"/>
 I went with a completly diffferent design from my first swerve module, where it doesn't use any bevel gears in the top differential section. The main turret and ring gears are still supported with built in ball bearings, where I design in the bearing tracks into the 3D printed parts and insert 4.5mm BBs with a bearing cage, this works supprisingly well and is increadably cheap and saves space compared to buying several 100mm ball bearings. There are now two shafts with bevel gears to spread the load when tranfering the power to the wheel. 
 
 
