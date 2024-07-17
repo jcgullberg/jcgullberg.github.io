@@ -3,7 +3,7 @@ layout: page
 title: My Etsy Products
 ---
 ## Nintendo Switch Apple Watch Charging Stand
-###### This made up about 80% of my sales, and the design was constantly iterated and improved over the years. I eventually also made different colors to match the real switch colors, like the animal crossing version.
+###### This made up about 80% of my sales, and the design was constantly iterated and improved over the years for easier assembly, better surface finish and more reliable printing. I eventually also made different colors to match the real switch colors, like the animal crossing version.
 <img src="{{ site.github.url }}/assets/img/apple_watch_stand_thumbnail.jpg" alt="bing" width="100%"/>
 <img src="{{ site.github.url }}/assets/img/apple_watch_stand_variety.jpg" alt="bing" width="100%"/>
 
@@ -16,7 +16,7 @@ title: My Etsy Products
 
 ---
 ## Adjustable Tablet Stand
-###### This tablet stand has a curved rack and pinion setup with a worm gear connected to a knob on the bottom, that lets you continouasly adjust the angle. The design was supposed to be bubbly and friendly, and is a design I am very proud of, unfortuantly it did not sell too well.
+###### This tablet stand has a curved rack and pinion setup with a worm gear connected to a knob on the bottom, that lets you continouasly adjust the angle. The design was supposed to be bubbly and sleek, and is a design I am very proud of, unfortuantly it did not sell too well.
 <img src="{{ site.github.url }}/assets/img/tablet_stand_thumbnail.jpg" alt="bing" width="100%"/>
 <img src="{{ site.github.url }}/assets/img/tablet_stand_variety.jpg" alt="bing" width="100%"/>
 <img src="{{ site.github.url }}/assets/img/tablet_stand_cad_section.jpg" alt="bing" width="100%"/>
