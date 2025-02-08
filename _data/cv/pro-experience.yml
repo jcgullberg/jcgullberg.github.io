@@ -1,9 +1,9 @@
 - title: 'Reactor Materials Testing Lab, Queen&#8217;s University - Summer Research Student, '
   time: 'Summer 2024'
-  description: 'Designed and implemented a beam profile monitor actuator for a Tandetron Proton Accelerator, utilizing an air cylinder for actuation and communicated over Wi-Fi with ESP32s, increasing operational efficiency <br>
-    Improved a previous design of a cold trap, redesigned to use minimal number of new parts & decreased surface temperatures from -15 to -25 °C and increased vapor collection capabilities <br>
-    Developed a molten salt test cell to allow samples to be irradiated while in contact with molten salt at >900°C, to aid in research on next-gen molten salt reactors <br>
-    Produced engineering drawings adhering to ASME Y14.5 standards, including GD&T conventions <br>
+  description: '<li>Designed and implemented a beam profile monitor actuator for a Tandetron Proton Accelerator, utilizing an air cylinder for actuation and communicated over Wi-Fi with ESP32s, increasing operational efficiency <br>
+    <li>Improved a previous design of a cold trap, redesigned to use minimal number of new parts & decreased surface temperatures from -15 to -25 °C and increased vapor collection capabilities <br>
+    <li>Developed a molten salt test cell to allow samples to be irradiated while in contact with molten salt at >900°C, to aid in research on next-gen molten salt reactors <br>
+    <li>Produced engineering drawings adhering to ASME Y14.5 standards, including GD&T conventions <br>
   '
 - title: 'Queen&#8217;s Aerospace Design Team - Aerostructures Manager, '
   time: 'June 2024 - Present'
@@ -13,16 +13,19 @@
   '
 - title: 'Queen&#8217;s QVex Robotics Team - Director of Mechanical, '
   time: 'May 2024 - Present'
-  description: 'Oversaw the development and design of two fully custom robots for the VEXU robotics competition. Coordinated with Directors of Electrical and Software, delegated subsystems to Project Leads and ensured designs intergrated seemlesly and alinged with project goals. <br> Lead the design for the differential swerve-drive drive base and several other subsystems.'
-
+  description: '<li>Managed a team of 35 to develop and design two fully custom robots for the VEXU robotics competitions
+    <li>Coordinated with Directors of Electrical and Software, delegated subsystems to Project Leads, ensured designs integrated seamlessly and aligned with project goals
+    <li>Led the design for the first differential swerve-drive drive bases in VEX history, giving us a competitive edge
+  '
 - title: 'Queen&#8217;s Space Engineering Team - General Member, '
   time: 'October 2023 - May 2024'
-  description: 'Utilized Solidworks to design a differential bar for a rover, and fabricated it from 3d printed and composite parts.'
+  description: '<li>Utilized Solidworks to design a differential bar for a rover, and fabricated it from 3d printed and composite parts.'
 
 - title: 'Starting a 3D printing and design business, '
   time: 'March 2022 - August 2023'
-  description: 'Used Onshape to make custom products for clients as well as original designs that can be seen on this website. Utilized FDM 3D printing for fabrication. Sold products on Etsy and Facebook and marketed through Tik Tok, Reddit, and several Meta platforms. Generating over $13K in sales.'
-
+  description: '<li>Created custom products for clients & original designs with CAD, utilizing FDM 3D printing for fabrication and implementing DFA & DFM principles
+    <li>Sold on Etsy and Facebook and marketed on Tik Tok, Reddit, and Meta platforms, generating $13K in sales
+  '
 - title: 'Malisa Fashion - Salesperson, '
   time: 'March 2023 - July 2023'
-  description: 'Proactively engaged and communicated with prospective clients via email to drive revenue growth for the company.'
+  description: '<li>Proactively engaged and communicated with prospective clients via email to drive revenue growth for the company.'
