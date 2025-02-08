@@ -1,7 +1,10 @@
-- title: 'Reactor Materials Testing Lab, Queen&#8217;s University - Design Engineer Intern, '
+- title: 'Reactor Materials Testing Lab, Queen&#8217;s University - Summer Research Student, '
   time: 'Summer 2024'
-  description: 'Designed and implemented a beam profile monitor actuator. Utilized Onshape to make CAD design and drawings. Incorperated several ESP32s to allow wireless comunication between the control and accelerator room. <br> Improved a previous design of a cold trap, redesigned to use minimal number of new parts. Decreased surface temperatures from -15 to -25 degrees Celcius and increased vapor collection capabilities.'
-
+  description: 'Designed and implemented a beam profile monitor actuator for a Tandetron Proton Accelerator, utilizing an air cylinder for actuation and communicated over Wi-Fi with ESP32s, increasing operational efficiency <br>
+    Improved a previous design of a cold trap, redesigned to use minimal number of new parts & decreased surface temperatures from -15 to -25 °C and increased vapor collection capabilities <br>
+    Developed a molten salt test cell to allow samples to be irradiated while in contact with molten salt at >900°C, to aid in research on next-gen molten salt reactors <br>
+    Produced engineering drawings adhering to ASME Y14.5 standards, including GD&T conventions <br>
+  '
 - title: 'Queen&#8217;s Aerospace Design Team - Aerostructures Manager, '
   time: 'June 2024 - Present'
   description: 'Leading a team of general members to design, build, and fabrcate a full carbon fiber VTOL UAV, using advanced lay-up tecniques, a waterjet cut internal structure, 3D printing and rigorous testing and simulations to achieve maximum performance.'
