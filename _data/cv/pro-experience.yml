@@ -7,8 +7,10 @@
   '
 - title: 'Queen&#8217;s Aerospace Design Team - Aerostructures Manager, '
   time: 'June 2024 - Present'
-  description: 'Leading a team of general members to design, build, and fabrcate a full carbon fiber VTOL UAV, using advanced lay-up tecniques, a waterjet cut internal structure, 3D printing and rigorous testing and simulations to achieve maximum performance.'
-
+  description: '<li>Leading a team to design and fabricate two carbon fiber UAVs to compete in the AEAC 2025 competition <br>
+    <li>Designed and produced components of a VTOL that competed at the AEAC 2024 competition as a general member, including producing the composite molds, tail & wing internal structures and electronic mounts <br>
+    <li>Used composite lay-ups, waterjet cut internal structure, FDM and SLA 3D printing for fabrication <br>
+  '
 - title: 'Queen&#8217;s QVex Robotics Team - Director of Mechanical, '
   time: 'May 2024 - Present'
   description: 'Oversaw the development and design of two fully custom robots for the VEXU robotics competition. Coordinated with Directors of Electrical and Software, delegated subsystems to Project Leads and ensured designs intergrated seemlesly and alinged with project goals. <br> Lead the design for the differential swerve-drive drive base and several other subsystems.'
