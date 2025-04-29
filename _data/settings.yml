@@ -30,7 +30,8 @@ awards:
 - {name: 'The Engineering Society Prize', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
 - {name: 'Canadian Engineering Competition', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
 - {name: 'Ontario Engineering Competition', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
-- {name: 'Queens Engineeriing Competition', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}- {name: 'The Engineering Society Prize', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
+- {name: 'Queens Engineeriing Competition', type: 'Queens Engineering Society', year: '2024', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
+
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
