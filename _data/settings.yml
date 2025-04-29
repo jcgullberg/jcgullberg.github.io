@@ -3,7 +3,6 @@ menu:
 - {name: 'awards', url: '/awards'}
 - {name: 'resume', url: '/cv'}
 - {name: 'contact', url: '/contact'}
-- {name: 'awards', url: '/awards'}
 
 
 projects:
@@ -28,7 +27,7 @@ projects:
 - {name: '3D Printed 6-Axis Arm', type: 'Personal Project', year: 'Work In Progress', info: 'Currently just cad drawings of a split-ring planetary gearbox for the sholder joint, but when completed it will be a nearly fully 3D printed arm renfoced with carbon fiber rods, running on brushless motors and Odrives.' , image: 'assets/img/robot_arm_gearbox_cad.jpg', url: '404'} 
 
 awards:
-- {name: 'The Engineering Society Prize', type: 'Queens Aerospace', year: '2025', info: 'bing'}
+- {name: 'The Engineering Society Prize', type: 'Queens Aerospace', year: '2025', info: 'bing', image: 'assets/img/pokeball_on_bag.jpg'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
