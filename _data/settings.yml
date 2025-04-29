@@ -6,8 +6,8 @@ menu:
 
 
 projects:
-# - {name: 'Stingray', type: 'Queens Aerospace', year: '2025', info:
-# - {name: 'Crush', type: 'Queens Aerospace', year: '2025', info:
+- {name: 'Stingray', type: 'Queens Aerospace', year: '2025', info: 'A fully carbon fiber fixed wing aircraft developed for the AEAC 2025 student competition to locate and map wildfires with an IR camera. ' , image: 'assets/img/beam_profile_thumbnail.jpg', url: 'beam_profile_monitor'}
+- {name: 'Crush', type: 'Queens Aerospace', year: '2025', info: 'A heavy-lift quadcopter made for the AEAC 2025 student competition to pick-up and drop-off water to aid in fighting forrest fires. ' , image: 'assets/img/beam_profile_thumbnail.jpg', url: 'beam_profile_monitor'}
 - {name: 'Beam Profile Monitor Actuator', type: 'RMTL', year: '2024', info: 'Made to allow remote control of a beam profile monitor in a Tandetron proton accelerator safely from the control room. Uses an air cylinder for actuation and comunicates to the control box with ESP32s over a local network.' , image: 'assets/img/beam_profile_thumbnail.jpg', url: 'beam_profile_monitor'}
 - {name: 'Cold Trap', type: 'RMTL', year: '2024', info: 'Designed to be in an ultra high vacuum chamber with the samples when they are being irradiated, the cold plate surface temperature reaches -25 degrees celcius to condense any vapors to prevent contamination. This was a modification from a previous underperforming design, that was converted at a low cost with minimal new parts, a 10 to 15 degree reduction in temperature was observed.' , image: 'assets/img/cold_trap_cold.jpg', url: 'cold_trap'}
 - {name: 'Night Fury - VTOL Aircraft', type: 'Queens Aerospace', year: '2024', info: 'Together with a team, we created a fully carbon fiber VTOL aircraft with a 3m wingspan to compete in the Aerial Evolution Assosiation of Canada Student Compitition. My contributions include the 3D printed molds for the carbon fiber skin, the tail and motor mounts, as well as many other small but important components. ' , image: 'assets/img/night_furry_thumbnail.jpg', url: 'night_fury'}
@@ -31,7 +31,7 @@ awards:
 - {name: 'Canadian Engineering Competition', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
 - {name: 'Ontario Engineering Competition', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
 - {name: 'Queens Engineeriing Competition', type: 'Queens Engineering Society', year: '2024', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
-
+- {name: 'Undergraduate Research Award', type: 'NSERC', year: '2024', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/pokeball_on_bag.jpg'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
