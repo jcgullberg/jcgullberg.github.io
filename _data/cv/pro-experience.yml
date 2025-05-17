@@ -1,3 +1,7 @@
+- title: 'Mosaic Manufacturing - Mechanical Engineering Co-op, '
+  time: 'Summer 2025'
+  description: ''
+
 - title: 'Reactor Materials Testing Lab, Queen&#8217;s University - Summer Research Student, '
   time: 'Summer 2024'
   description: 'Designed and implemented a beam profile monitor actuator for a Tandetron Proton Accelerator, utilizing an air cylinder for actuation and communicated over Wi-Fi with ESP32s, increasing operational efficiency. 
@@ -5,15 +9,20 @@
     <br>Developed a molten salt test cell to allow samples to be irradiated while in contact with molten salt at >900°C, to aid in research on next-gen molten salt reactors. 
     <br>Produced engineering drawings adhering to ASME Y14.5 standards, including GD&T conventions. 
   '
+
+- title: 'Queen&#8217;s Aerospace Design Team - Co-Captain, '
+  time: 'May 2025 - Present'
+  description: ''
+
 - title: 'Queen&#8217;s Aerospace Design Team - Aero-structures Manager, '
-  time: 'June 2024 - Present'
+  time: 'June 2024 - May 2025'
   description: 'Leading a team to design and fabricate two carbon fiber UAVs to compete in the AEAC 2025 competition.
     <br>Designed and produced components of a VTOL that competed at the AEAC 2024 competition as a general member, including producing the composite molds, tail & wing internal structures and electronic mounts.
     <br>Used composite lay-ups, waterjet cut internal structure, FDM and SLA 3D printing for fabrication.
   '
 - title: 'Queen&#8217;s QVex Robotics Team - Director of Mechanical, '
-  time: 'May 2024 - Present'
-  description: '<br>Managed a team of 35 to develop and design two fully custom robots for the VEXU robotics competitions.
+  time: 'May 2024 - May 2025'
+  description: 'Managed a team of 35 to develop and design two fully custom robots for the VEXU robotics competitions.
     <br>Coordinated with Directors of Electrical and Software, delegated subsystems to Project Leads, ensured designs integrated seamlessly and aligned with project goals.
     <br>Led the design for the first differential swerve-drive drive bases in VEX history, giving us a competitive edge.
   '
