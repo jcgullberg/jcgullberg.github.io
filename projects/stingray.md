@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DC Motor
+title: Stingray - Fixed Wing UAV
 ---
 <img src="{{ site.github.url }}/assets/img/stingray_thumbnail2.jpg" alt="bing" width="100%"/>
 
