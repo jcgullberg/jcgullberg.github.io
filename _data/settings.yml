@@ -27,8 +27,8 @@ projects:
 
 awards:
 - {name: 'The Engineering Society Prize', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extra-curricular leadership', image: 'assets/img/engsoc_award.jpg'}
-- {name: 'Canadian Engineering Competition', type: 'Canadian Federation of Engineering Students', year: '2025', info: 'Competed against regional finalists from across Canada to design, build, and present a prototype to solve an engineering problem. Qualified by winning the Ontario Engineering Competition ', image: 'assets/img/cec_pic4.jpg'}
-- {name: 'Ontario Engineering Competition', type: 'Engineering Student Societies Council of Ontario', year: '2025', info: 'Competed against 16 teams from across Ontario to design, build, and present a prototype to solve an engineering problem. Qualified by winning the Queens Engineering Competition', image: 'assets/img/oec_thumbnail.jpg'}
+- {name: 'Canadian Engineering Competition - 1st', type: 'Canadian Federation of Engineering Students', year: '2025', info: 'Competed against regional finalists from across Canada to design, build, and present a prototype to solve an engineering problem. Qualified by winning the Ontario Engineering Competition ', image: 'assets/img/cec_pic4.jpg'}
+- {name: 'Ontario Engineering Competition - 1st', type: 'Engineering Student Societies Council of Ontario', year: '2025', info: 'Competed against 16 teams from across Ontario to design, build, and present a prototype to solve an engineering problem. Qualified by winning the Queens Engineering Competition', image: 'assets/img/oec_thumbnail.jpg'}
 - {name: 'Undergraduate Research Award', type: 'NSERC', year: '2024', info: 'Received funding from NSERC to conduct research under Dr. Mark Daymond in the nuclear engineering field. ', image: 'assets/img/beam_profile_thumbnail.jpg'}
 
 courses:
