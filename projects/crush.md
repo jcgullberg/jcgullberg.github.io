@@ -6,8 +6,7 @@ title: Crush - Quadcopter
 
 ## About
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/watch?v=LSZnXND0dzE&ab_channel=JamesGullberg" 
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
+<video width="600" controls autoplay loop muted>
+  <source src="{{ site.github.url }}/assets/vid/testvid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
