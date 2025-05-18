@@ -6,7 +6,7 @@ title: Crush - Quadcopter
 
 ## About
 
-<video width="600" controls autoplay loop muted>
+<video width="100%" controls autoplay loop muted>
   <source src="{{ site.github.url }}/assets/vid/testvid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
