@@ -18,9 +18,9 @@ The RIT event wast the first major event that our team attended this year, and i
 
 <img src="{{ site.github.url }}/assets/img/vex_rit.jpg" alt="Team at RIT" width="100%"/>
 <img src="{{ site.github.url }}/assets/img/vex_rit_awards.jpg" alt="RIT Awards" width="100%"/>
-<br>
 
-#### Mecha Mayhem
+
+#### <br>Mecha Mayhem
 Althoug I personally did not attend this event, it is still worth mentioning as at this event we were once again the Skills Champion, and recieved the Judges Award. This was also the event where we qualified for the world championship.
 
 <img src="{{ site.github.url }}/assets/img/vex_mecha_awards.jpg" alt="Mecha Awards" width="100%"/>
