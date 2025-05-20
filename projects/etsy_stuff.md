@@ -59,3 +59,5 @@ The summer I graduated high school I stopped making more projects, and just sold
 If you look at all these products I created, they all have a few things in common, one of them being that they are all products that I wanted, but couldn't find or buy. All of these products I made for myself first, to make my life easier. I think this approch of solving a problem that I had personally allowed ne to make actually good solutions and products, and is what led to my seccess.
 
 Visit my <a href="https://www.etsy.com/ca/shop/DynastyDesignx">Etsy store</a>! Or you can download all the models and print them yourself at <a href="https://www.printables.com/@jamescgullber_244830/models">Printable.com</a>
+
+<img src="{{ site.github.url }}/assets/img/lots_of_packages.jpg" alt="bing" width="100%"/>
