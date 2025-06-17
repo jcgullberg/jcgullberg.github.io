@@ -4,44 +4,60 @@
     <li>Designed and executed accelerated lifetime tests, automating workflows with custom Python scripts, Swagger, and Signoz to identify failure modes, perform root cause analysis, and improve system OEE. </li>
     <li>Developed multiple test rigs for 3D printer subsystems, streamlining internal testing and debugging.</li>
     </ul>  
-  '
+    '
 
 - title: 'Reactor Materials Testing Lab, Queen&#8217;s University - Summer Research Student, '
   time: 'Summer 2024'
-  description: 'Designed and implemented a beam profile monitor actuator for a Tandetron Proton Accelerator, utilizing an air cylinder for actuation and communicated over Wi-Fi with ESP32s, increasing operational efficiency. 
-    <br>Improved a previous design of a cold trap, redesigned to use minimal number of new parts & decreased surface temperatures from -15 to -25 °C and increased vapor collection capabilities. 
-    <br>Developed a molten salt test cell to allow samples to be irradiated while in contact with molten salt at >900°C, to aid in research on next-gen molten salt reactors. 
-    <br>Produced engineering drawings adhering to ASME Y14.5 standards, including GD&T conventions. 
-  '
+  description: '<ul>
+    <li>Designed and implemented a beam profile monitor actuator for a Tandetron Proton Accelerator, utilizing an air cylinder for actuation and communicated over Wi-Fi with ESP32s, increasing operational efficiency. </li>
+    <li>Improved a previous design of a cold trap, redesigned to use minimal number of new parts & decreased surface temperatures from -15 to -25 °C and increased vapor collection capabilities. </li>
+    <li>Developed a molten salt test cell to allow samples to be irradiated while in contact with molten salt at >900°C, to aid in research on next-gen molten salt reactors. </li>
+    <li>Produced engineering drawings adhering to ASME Y14.5 standards, including GD&T conventions. </li>
+    </ul>
+    '
 
 - title: 'Queen&#8217;s Aerospace Design Team - Co-Captain, '
   time: 'May 2025 - Present'
-  description: 'Leading a team of 150 to design and fabricate a fully carbon fiber UAV to compete in the AIAA DBF 2026 competition.
-    <br>Managing project timelines, technical development, and team coordination to ensure successful execution.
-    <br>Overseeing budget, sponsorships, and competition logistics.
-  '
+  description: '<ul>
+    <li>Leading a team of 150 to design and fabricate a fully carbon fiber UAV to compete in the AIAA DBF 2026 competition. </li>
+    <li>Managing project timelines, technical development, and team coordination to ensure successful execution. </li>
+    <li>Overseeing budget, sponsorships, and competition logistics. </li>
+    </ul>
+    '
 
 - title: 'Queen&#8217;s Aerospace Design Team - Aero-structures Manager, '
   time: 'June 2024 - May 2025'
-  description: 'Leading a team to design and fabricate two carbon fiber UAVs to compete in the AEAC 2025 competition.
-    <br>Designed and produced components of a VTOL that competed at the AEAC 2024 competition as a general member, including producing the composite molds, tail & wing internal structures and electronic mounts.
-    <br>Used composite lay-ups, waterjet cut internal structure, FDM and SLA 3D printing for fabrication.
-  '
+  description: '<ul>
+    <li>Leading a team to design and fabricate two carbon fiber UAVs to compete in the AEAC 2025 competition.</li>
+    <li>Designed and produced components of a VTOL that competed at the AEAC 2024 competition as a general member, including producing the composite molds, tail & wing internal structures and electronic mounts.</li>
+    <li>Used composite lay-ups, waterjet cut internal structure, FDM and SLA 3D printing for fabrication.</li>
+    </ul>
+    '
 - title: 'Queen&#8217;s QVex Robotics Team - Director of Mechanical, '
   time: 'May 2024 - May 2025'
-  description: 'Managed a team of 35 to develop and design two fully custom robots for the VEXU robotics competitions.
-    <br>Coordinated with Directors of Electrical and Software, delegated subsystems to Project Leads, ensured designs integrated seamlessly and aligned with project goals.
-    <br>Led the design for the first differential swerve-drive drive bases in VEX history, giving us a competitive edge.
-  '
+  description: '<ul>
+    <li>Managed a team of 35 to develop and design two fully custom robots for the VEXU robotics competitions.</li>
+    <li>Coordinated with Directors of Electrical and Software, delegated subsystems to Project Leads, ensured designs integrated seamlessly and aligned with project goals.</li>
+    <li>Led the design for the first differential swerve-drive drive bases in VEX history, giving us a competitive edge.</li>
+    </ul>
+    '
 - title: 'Queen&#8217;s Space Engineering Team - General Member, '
   time: 'October 2023 - May 2024'
-  description: 'Utilized Solidworks to design a differential bar for a rover, and fabricated it from 3d printed and composite parts.'
+  description: '<ul>
+    <li>Utilized Solidworks to design a differential bar for a rover, and fabricated it from 3d printed and composite parts.</li>
+    </ul>
+    '
 
 - title: 'Starting a 3D printing and design business, '
   time: 'March 2022 - August 2023'
-  description: 'Created custom products for clients & original designs with CAD, utilizing FDM 3D printing for fabrication and implementing DFA & DFM principles.
-    <br>Sold on Etsy and Facebook and marketed on Tik Tok, Reddit, and Meta platforms, generating $13K in sales.
-  '
+  description: '<ul>
+    <li>Created custom products for clients & original designs with CAD, utilizing FDM 3D printing for fabrication and implementing DFA & DFM principles.</li>
+    <li>Sold on Etsy and Facebook and marketed on Tik Tok, Reddit, and Meta platforms, generating $13K in sales.</li>
+    </ul>
+    '
 - title: 'Malisa Fashion - Salesperson, '
   time: 'March 2023 - July 2023'
-  description: 'Proactively engaged and communicated with prospective clients via email to drive revenue growth for the company.'
+  description: '<ul>
+    <li>Proactively engaged and communicated with prospective clients via email to drive revenue growth for the company. </li>
+    </ul>
+    '
