@@ -9,6 +9,7 @@ Crush is a heavy lift quadcopter originally built for the AEAC 2025 student comp
 
 ## Design
 
+
 ## Construction
 
 ## Testing
@@ -23,7 +24,3 @@ Developed the power distribution board and fabricated the battery packs
 Handled electronic component selection and integration
 
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="{{ site.github.url }}/assets/vid/testvid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>

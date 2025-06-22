@@ -4,7 +4,7 @@ title: Beam Profile Monitor Actuator
 ---
  
 
-## Introduction
+## Introduction 
 The beam profile monitor is a device that is mounted near the end of a proton accelerator that can be slid into the beams path to give data of its’ shape and position. It currently needs to be operated by hand and the accelerator room; hence it cannot be actuated when the accelerator is on. The aim of this project is to design and construct a device that can actuate the monitor from the control room while the accelerator is on.
  
 ## Design Approach
