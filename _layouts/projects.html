@@ -11,10 +11,12 @@ layout: default
     <h5><strong>{{ project.name }}, </strong>{{ project.year }}</h5>
     <p style="color: rgb(1,95,138)">{{project.type}}</p>
     <p>{{ project.info }}</p>
+    {% if project.show_more_info %}
     <p><a href="{{ site.github.url }}/projects/{{ project.url }}">More info</a></p>
+    {% endif %}
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ project.image }}" alt="Contact" width="100%">
+    <img src="{{ site.github.url }}/{{ project.image }}" alt="Missing image" width="100%">
   </div>
 </div>
 {% endfor %}
