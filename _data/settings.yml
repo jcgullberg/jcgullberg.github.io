@@ -33,10 +33,10 @@ projects:
 #- {name: '3D Printed 6-Axis Arm', type: 'Personal Project', year: 'WIP', info: 'Currently just CAD drawings of a split-ring planetary gearbox for the shoulder joint, but when completed it will be a nearly fully 3D-printed arm reinforced with carbon fiber rods, running on brushless motors and ODrives.', image: 'assets/img/robot_arm_gearbox_cad.jpg', url: '404', show_more_info: false} 
 
 awards:
-- {name: 'The Engineering Society Prize', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extracurricular leadership.', image: 'assets/img/engsoc_award.jpg'}
+- {name: 'The Engineering Society Prize', type: 'Queens Engineering Society', year: '2025', info: 'Awarded by the Queens Engineering Society to a second-year student who has contributed most to the University and exhibited the most ability in extracurricular leadership.', image: 'assets/img/engsoc_prize.jpg'}
 - {name: 'Canadian Engineering Competition - 1st', type: 'Canadian Federation of Engineering Students', year: '2025', info: 'Competed against regional finalists from across Canada to design, build, and present a prototype to solve an engineering problem. Qualified by winning the Ontario Engineering Competition.', image: 'assets/img/cec_pic4.jpg'}
 - {name: 'Ontario Engineering Competition - 1st', type: 'Engineering Student Societies Council of Ontario', year: '2025', info: 'Competed against 16 teams from across Ontario to design, build, and present a prototype to solve an engineering problem. Qualified by winning the Queens Engineering Competition.', image: 'assets/img/oec_thumbnail.jpg'}
-- {name: 'Undergraduate Research Award', type: 'NSERC', year: '2024', info: 'Received funding from NSERC to conduct research at the Reactor Materials Testing Lab at Queens, under Dr. Mark Daymond in the nuclear engineering field.', image: 'assets/img/beam_profile_thumbnail.jpg'}
+- {name: 'Undergraduate Research Award', type: 'NSERC', year: '2024', info: 'Received funding from NSERC to conduct research at the Reactor Materials Testing Lab at Queens, under Dr. Mark Daymond in the nuclear engineering field.', image: 'assets/img/usra.jpg'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
